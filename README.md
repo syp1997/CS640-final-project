@@ -1,3 +1,3 @@
 # CS640-final-project
 
-The code run procedure is in the notebook. See details there.
+The procedure of running code is in the notebook. See details there.
